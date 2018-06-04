@@ -4,7 +4,7 @@
   <groupId>com.mkyong.common</groupId>
   <artifactId>se</artifactId>
   <packaging>jar</packaging>
-  <version>5.0.0</version>
+  <version>5.0.0-SNAPSHOT</version>
   <name>se</name>
   <url>http://maven.apache.org</url>
 	
