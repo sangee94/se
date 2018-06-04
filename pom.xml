@@ -44,7 +44,7 @@
     <repository>
       <id>ycard-releases</id>
       <name>ycard-releases</name>
-      <url>http://ec2-52-15-150-6.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/ycard-releases/</url>
+      <url>http://ec2-54-174-216-200.compute-1.amazonaws.com:8081/nexus/content/repositories/ycard-releases/</url>
     </repository>
     <snapshotRepository>
       <id>ycard-snapshots</id>
